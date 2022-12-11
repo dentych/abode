@@ -15,3 +15,5 @@ alias gca!='git commit -v -a --amend'
 alias gcmsg='git commit -m'
 alias gcm='git switch master'
 alias ga='git add'
+alias gdca='git diff --cached'
+
