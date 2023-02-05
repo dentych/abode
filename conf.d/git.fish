@@ -1,4 +1,5 @@
 alias g='git'
+alias grs='git restore'
 alias gst='git status'
 alias gsw='git switch'
 alias gd='git diff'
